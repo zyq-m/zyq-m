@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyq-m
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning Typescript, Frammer motion and Firebase
+- 🌱 I’m currently learning Typescript, Framer motion and Firebase
 - 📫 You reach me through [email](mailto:haziq.musa02@gmail.com) or [twitter](https://twitter.com/zyq__m)
 
 <!---
