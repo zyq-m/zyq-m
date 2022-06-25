@@ -11,7 +11,7 @@
 
 # About Me👨‍💻
 
-I'm a passionate self-taught web developer based in Malaysia. Currently, I'm pursuing CS degree. I love to learn latest technologies.
+I'm a passionate self-taught web developer based in Malaysia. Currently, I'm pursuing CS degree. I love to learn latest technologies. I have strong foundation in Java and Javascript.
 
 # Latest Project🚀
 
