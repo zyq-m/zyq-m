@@ -18,7 +18,7 @@ I'm a passionate self-taught web developer based in Malaysia. Currently, I'm pur
 - [PocoStudy](https://github.com/zyq-m/poco-study)
 - [Seri Putra](https://github.com/zyq-m/seriputra-blog)
 - [FITcoders Question](https://github.com/zyq-m/fitcoders-questions)
-- [Calculate Salary](https://github.com/zyq-m/calculate-salary)
+- [Salary Calculator](https://github.com/zyq-m/calculate-salary)
 
 # Reach Me Out🤙
 
