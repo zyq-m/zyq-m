@@ -23,6 +23,8 @@ I'm a passionate self-taught **Full-Stack Web Developer** based in **Malaysia**.
 - [Seri Putra](https://github.com/zyq-m/seriputra-blog)
 - [FITcoders Question](https://github.com/zyq-m/fitcoders-questions)
 - [Salary Calculator](https://github.com/zyq-m/calculate-salary)
+- [Blog](https://github.com/zyq-m/anum-blog)
+- [e-Booking Library](https://github.com/zyq-m/e-booking-library-room)
 
 # Reach Me Out🤙
 
